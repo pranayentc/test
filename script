@@ -17,3 +17,5 @@ echo
 date
 echo
 fdisk -l
+echo
+echo
