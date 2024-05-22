@@ -16,8 +16,9 @@ nproc
 echo 
 echo
 date
+echo 
+echo
+date
 echo
 uptime
-echo
-echo
-hostnamectl
+
