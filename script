@@ -13,9 +13,3 @@ ls -ltrh
 echo
 echo
 nproc
-echo
-date
-echo
-fdisk -l
-echo
-echo
