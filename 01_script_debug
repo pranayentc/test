@@ -13,5 +13,11 @@ ls -ltrh
 echo
 echo
 nproc
+<<<<<<< HEAD
 echo
 echo
+=======
+echo 
+echo
+date
+>>>>>>> feature2
