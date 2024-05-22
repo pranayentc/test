@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# first script to test debug mode
+
+set -x # This how to set debug mode
+
+echo
+echo
+df -h 
+echo
+echo
+ls -ltrh 
+echo
+echo
+nproc
+<<<<<<< HEAD
+echo
+echo
+=======
+echo 
+echo
+date
+>>>>>>> feature2
