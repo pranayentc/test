@@ -15,4 +15,5 @@ echo
 nproc
 echo
 date
-
+echo
+fdisk -l
