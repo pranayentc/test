@@ -20,4 +20,3 @@ echo
 uptime
 echo
 echo
-hostnamectl
