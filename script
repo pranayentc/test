@@ -13,3 +13,6 @@ ls -ltrh
 echo
 echo
 nproc
+echo
+echo
+date
