@@ -16,9 +16,3 @@ nproc
 echo
 echo
 date
-echo 
-echo
-ifconfig
-echo 
-echo
-uptime
