@@ -16,3 +16,6 @@ nproc
 echo
 echo
 date
+echo 
+echo
+uptime
