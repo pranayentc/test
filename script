@@ -19,3 +19,6 @@ date
 echo 
 echo
 ifconfig
+echo 
+echo
+uptime
