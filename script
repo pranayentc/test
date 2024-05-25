@@ -16,3 +16,6 @@ nproc
 echo 
 echo
 uptime
+echo
+echo
+uname -a 
