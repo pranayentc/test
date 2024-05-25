@@ -18,4 +18,4 @@ echo
 date
 echo 
 echo
-uptime
+ifconfig
